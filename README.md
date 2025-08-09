@@ -1,45 +1,3 @@
-Here’s your **enhanced YouTube title, description, and full workflow section** — polished, SEO-friendly, and ready to paste into your upload.
-I’ve kept it engaging for viewers, keyword-optimized for search, and structured so they can easily follow your promised step-by-step guide with repo + docs links.
-
----
-
-## **Title**
-
-**How to Integrate Tailwind CSS & Alpine.js with Vite in Django + Use HTMX for Dynamic UI (Step-by-Step)**
-
----
-
-## **Description**
-
-Unlock a powerful, modern Django frontend workflow!
-In this video, I’ll walk you through **integrating Tailwind CSS, Alpine.js, and Vite** in a Django project — all out of the box — and show you how to use **HTMX** for dynamic, server-driven interactivity.
-
-You’ll see **step-by-step** how to:
-
-* Install and configure **Vite** for rapid Django development
-* Set up **Tailwind CSS** with clean, maintainable styles
-* Integrate **Alpine.js** for reactive, lightweight UI components
-* Use **HTMX** to fetch and update parts of your page without writing heavy JavaScript
-* Keep your project structure scalable and professional
-
-I’ve included the **exact workflow** I followed in the video below, so you can copy, paste, and run it yourself.
-Also, you’ll find the **project’s GitHub repo** and all the **official documentation** I referenced.
-
----
-
-### **⏱ Chapters**
-
-0:00 Introduction
-0:45 Project Setup with Vite
-2:10 Installing Tailwind CSS
-4:00 Adding Alpine.js
-5:30 Integrating HTMX
-7:00 Example: Building a Dynamic Component
-10:00 Tips & Best Practices
-12:00 Final Thoughts
-
----
-
 ## **🛠 Step-by-Step Workflow**
 
 1. **Create & Configure Django Project**
@@ -182,11 +140,3 @@ Also, you’ll find the **project’s GitHub repo** and all the **official docum
 
 ---
 
-## **🎯 Tags**
-
-tailwindcss, alpinejs, htmx, vite, django, django tutorial, django tips, frontend integration, modern workflow, javascript, css, web development, django vite tailwind, alpine js django
-
----
-
-If you want, I can also create **a clean GitHub README** from this workflow so it matches your video and boosts credibility when people click the repo link.
-That way your YouTube description, GitHub, and project are all in sync.
